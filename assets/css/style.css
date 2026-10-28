@@ -27236,7 +27236,7 @@ body.theme-blue {
     flex-direction: column;
     justify-content: space-between;
     position: relative;
-    overflow: hidden ;
+    overflow: hidden;
 }
 
 .service-card-item:hover {
